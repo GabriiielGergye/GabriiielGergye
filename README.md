@@ -1,6 +1,5 @@
 ### Olá eu sou o Gabriel Gergye 👋
 
-- 🔭 Hoje trabalho com
 - 🌱 Cursando Analise e Desenvolvimento de Sistemas 
 - 📫 gergyegabri@gmail.com
 - 😄 Pronouns: ele/dele
