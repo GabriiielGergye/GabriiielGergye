@@ -2,7 +2,7 @@
 
 - 🌱 Cursando Analise e Desenvolvimento de Sistemas 
 - 📫 gergyegabri@gmail.com
-- 😄 Pronouns: ele/dele
+- 😄 ele/dele
 
 <div align="center">
   <a href="https://github.com/GabriiielGergye">
